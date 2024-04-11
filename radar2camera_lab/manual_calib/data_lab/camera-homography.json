@@ -1,0 +1,22 @@
+{
+    "center_camera-homography": {
+        "sensor_name": "center_camera",
+        "target_sensor_name": "center_camera",
+        "device_type": "camera",
+        "param_type": "homography",
+        "param": {
+            "src_quad": [
+                {
+                    "x": 1,
+                    "y": 0
+                }
+            ],
+            "dst_quad": [
+                {
+                    "x": 1,
+                    "y": 0
+                }
+            ]
+        }
+    }
+}
